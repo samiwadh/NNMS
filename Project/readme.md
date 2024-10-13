@@ -1,5 +1,5 @@
 # Notes Nexus Management System (NNMS)
-<img src="images/nexus_platform.png" align="right" width="200" />
+<img src="NNMS.webp" align="right" width="200" />
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/NNMS)](https://github.com/yourusername/NNMS)
 [![GitHub Release Date - Published_At](https://img.shields.io/github/release-date/yourusername/NNMS)](https://github.com/yourusername/NNMS)
