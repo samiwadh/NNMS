@@ -1,4 +1,5 @@
-https://github.com/samiwadh/NNMS/blob/main/Project/NNMS.webp
+
+<img src="https://github.com/samiwadh/NNMS/blob/main/Project/NNMS.webp" align="right" />
 # NNMS
 #### Students often face challenges in their studies, such as taking notes, conducting research, and learning complex subjects like AI and programming. The Note Nexus Management System addresses these issues by offering a comprehensive virtual hub. This platform is designed to assist not only students but also educators and researchers in organizing and conducting their research.
 
